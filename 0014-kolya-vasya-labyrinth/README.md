@@ -1,8 +1,6 @@
-# ★ Коля, Вася і лабіринт
+# Коля, Вася і лабіринт
 
 **Посилання на умову:** [Алготестер, задача 14](https://algotester.com/uk/ArchiveProblem/Display/14)
-
-**Задача для захисту** ★ (граф)
 
 **Тема:** граф (пошук вершин циклу)
 
@@ -21,7 +19,7 @@
 Команди виконуються з кореня репозиторію (`input.txt` містить приклад з умови):
 
 ```bash
-cd ★0014-kolya-vasya-labyrinth
+cd 0014-kolya-vasya-labyrinth
 node solution.js < input.txt
 ```
 

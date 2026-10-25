@@ -1,4 +1,3 @@
-// ★ ЗАДАЧА ДЛЯ ЗАХИСТУ (граф)
 const data = require('fs').readFileSync(0, 'utf8').split(/\s+/).filter(Boolean).map(Number);
 const n = data[0];
 const adj = Array.from({ length: n + 1 }, () => []);

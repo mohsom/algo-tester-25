@@ -1,6 +1,8 @@
-# Свічки на Halloween
+# ★ Свічки на Halloween
 
 **Посилання на умову:** [Алготестер, задача 40306](https://algotester.com/uk/ArchiveProblem/Display/40306)
+
+**Задача для захисту** ★ (бінарний пошук за відповіддю)
 
 **Тема:** бінарний пошук за відповіддю
 
@@ -19,7 +21,7 @@
 Команди виконуються з кореня репозиторію (`input.txt` містить приклад з умови):
 
 ```bash
-cd 40306-halloween-candles
+cd ★40306-halloween-candles
 node solution.js < input.txt
 ```
 

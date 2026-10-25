@@ -1,8 +1,6 @@
-# ★ Екстрене завдання
+# Екстрене завдання
 
 **Посилання на умову:** [Алготестер, задача 71154](https://algotester.com/uk/ArchiveProblem/Display/71154)
-
-**Задача для захисту** ★ (sliding window)
 
 **Тема:** sliding window (два вказівники)
 
@@ -21,7 +19,7 @@
 Команди виконуються з кореня репозиторію (`input.txt` містить приклад з умови):
 
 ```bash
-cd ★71154-emergency-task
+cd 71154-emergency-task
 node solution.js < input.txt
 ```
 

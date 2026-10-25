@@ -1,3 +1,4 @@
+// ★ ЗАДАЧА ДЛЯ ЗАХИСТУ (бінарний пошук)
 const lines = require('fs').readFileSync(0, 'utf8').split('\n');
 const [, , x] = lines[0].trim().split(/\s+/).map(BigInt);
 // Числа до 10^18 не вміщаються точно в Number, тому використовуємо BigInt

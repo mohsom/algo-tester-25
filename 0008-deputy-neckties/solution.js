@@ -1,4 +1,3 @@
-// ★ ЗАДАЧА ДЛЯ ЗАХИСТУ (бінарний пошук)
 const [first, second] = require('fs').readFileSync(0, 'utf8').split('\n');
 const [n, m] = first.trim().split(/\s+/).map(Number);
 const a = second.trim().split(/\s+/).map(Number);
